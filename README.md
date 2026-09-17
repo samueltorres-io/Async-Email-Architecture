@@ -16,7 +16,7 @@ Frontend + API (.NET 8)  →  Azure Service Bus  →  Azure Function (Bun + TS) 
 | [`Scenarios/`](./Scenarios) | As 4 arquiteturas. Só a 4ª tem código; as outras têm README explicando a dor. |
 | [`Infrastructure/Azure/EmailFunction/`](./Infrastructure/Azure/EmailFunction) | A Azure Function (Bun + TypeScript + Handlebars). **Única no repo.** |
 | [`Infrastructure/Bicep/`](./Infrastructure/Bicep) | Provisionamento dos recursos Azure. |
-| [`Docs/Video/SCRIPT.md`](./Docs/Video/SCRIPT.md) | Roteiro cena a cena. |
+| [`Docs/Video/ROTEIRO.md`](./Docs/Video/ROTEIRO.md) | Roteiro: a narração do vídeo, cena a cena. |
 | [`Docs/Architecture/`](./Docs/Architecture) | Notas de arquitetura e decisões (ADRs). |
 | [`Docs/Benchmarks/`](./Docs/Benchmarks) | Medições de latência/throughput que sustentam a narrativa com número. |
 | [`Assets/Diagrams/`](./Assets/Diagrams) | Diagramas usados nos slides. |
